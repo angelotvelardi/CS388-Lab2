@@ -13,6 +13,7 @@
         android:padding="5dp"
         android:textSize="20sp"
         android:textStyle="bold"
+        android:textColor="#00ccff"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="Hedwig" />
@@ -24,6 +25,7 @@
         android:padding="5dp"
         android:textSize="15sp"
         android:typeface="sans"
+        android:textColor="#A020F0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/senderTv"
         tools:text="Help on Assignment #2" />
